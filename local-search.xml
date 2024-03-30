@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>һЩҪ������</title>
+    <title>j2ee</title>
     <link href="/2024/03/24/j2ee%E7%AC%94%E8%AE%B0/"/>
     <url>/2024/03/24/j2ee%E7%AC%94%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[<p>#javaBean�﷨<br>useBean id��ʵ���� ���ú���<br><br>getProperty�鿴���� <br><br>��JavaBean�У�˽�����Կ���ͨ��getter���������ʡ�<a href="jsp:getProperty">jsp:getProperty</a> ��ǩ�������ڵ���JavaBean��getter��������ȡ����ֵ��������Щ������˽�еĻ��ǹ��е�</p>]]></content>
+    <content type="html"><![CDATA[<p>#javaBean语法<br>useBean id：实例化 调用函数<br><br>getProperty查看参数 <br><br>在JavaBean中，私有属性可以通过getter方法来访问。<a href="jsp:getProperty">jsp:getProperty</a> 标签可以用于调用JavaBean的getter方法来获取属性值，无论这些属性是私有的还是公有的<br><br>property是包中的属性，name是实例化后的对象,value是要传输的值<br><br>总结：JavaBean的操作将Java和前端更好的分开了</p>]]></content>
     
     
     
